@@ -8,7 +8,7 @@
 
 2. Prevent the Overfitting through Regularization: An example by Ridge Regression.
     * [Notebook](ridgeRegression.ipynb).
-    * [Colab]()
-    * [Medium](https://medium.com/@rlrocha/curve-fitting-13feb098951d).
+    * [Colab](https://colab.research.google.com/drive/1y3sYbvX1VL6xF68ensMDrLPtFSsxrjMd?usp=sharing)
+    * [Medium](https://medium.com/@rlrocha/prevent-the-overfitting-through-regularization-c50e3b490964).
 
 <!-- Teste [Link](https://medium.com/@rlrocha/curve-fitting-13feb098951d) -->
